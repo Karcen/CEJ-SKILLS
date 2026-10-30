@@ -1,0 +1,34 @@
+{
+  "as_of": "2026-10-30",
+  "package": "CEJ SKILLS",
+  "journal": "Cambridge Journal of Economics (CJE)",
+  "calendar_years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "volumes": [
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "validated_documents": 281,
+  "validated_pdf_pages": 6309,
+  "identity_pending": 0,
+  "known_metadata_coverage_complete": true,
+  "publisher_all_issue_toc_reconciliation_complete": false,
+  "source_papers_with_selected_sections_reviewed": 12,
+  "skills": [
+    "cej-climate-investment-policy",
+    "cej-distributional-macro",
+    "cej-library-research",
+    "cej-research",
+    "cej-sufficiency-policy-review"
+  ],
+  "chrome_settings_restored": true,
+  "raw_corpus_in_zip": false
+}
